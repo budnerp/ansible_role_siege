@@ -64,6 +64,8 @@ Ansible role for Siege 4.0.2, an http/https regression testing and benchmarking 
 ## Other links
 - Joe Dog Software Siege Manual [https://www.joedog.org/siege-manual/#]()
 - Load testing with Siege [https://www.stephenrlang.com/2016/02/load-testing-with-siege/]()
+- Speed testing your website with Siege: Part One [https://www.euperia.com/website-performance-2/speed-testing-your-website-with-siege-part-one/720]()
+- Speed testing your website with Siege: Part two [https://www.euperia.com/website-performance-2/speed-testing-your-website-with-siege-part-two/771]()
 
 ## TO DO
 -[ ] add dependencies
