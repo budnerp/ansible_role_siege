@@ -1,0 +1,6 @@
+---
+  - name: SIEGE - install
+    yum:
+      name: siege
+      state: installed
+    register: siege_result
